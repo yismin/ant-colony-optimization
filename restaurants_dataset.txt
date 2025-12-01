@@ -1,0 +1,9 @@
+Restaurant,Category,Distance_in_m,QueueTime_min,PrepTime_min,avg_price
+Beb El 7ouma,Tunisian food ,400,5 to 9,8 to 14,5.5
+Awled Afef,Tunisian food ,80,4 to 11,6 to 8,4.0
+Mlewi Djo,mlewi,300,4 to 7 ,5 to 10,6.0
+Chappati Aissam,chapati,60,3 to 6, 5 to 8,4.0
+And Amel,fast food,75,7 to 11,10 to 17,8.0
+Restaurant El Kbir,everything ,310,6 to 10,10 to 20,10.25
+Restaurant El Meken,fast food,110,10 to 15,10 to 18,6.7
+TBS dining hall,fixed meal for all , 220, 1 to 20, 2 to 5,0.2
